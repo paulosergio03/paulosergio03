@@ -1,4 +1,4 @@
-## Olá! Eu sou Paulo Sérgio 03 👋
+## Olá! Eu sou Paulo Sérgio 👋
 
 - 🔭 Suporte de TI 
 - 🌱 Estudando para ser um Desenvolvendor 
