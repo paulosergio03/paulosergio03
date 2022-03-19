@@ -1,7 +1,7 @@
 ## Olá! Eu sou Paulo Sérgio 👋
 
 - 🔭 Suporte de TI 
-- 🌱 Estudando para ser um Desenvolvendor
+- 🌱 Estudando para ser um Desenvolvedor
 - 📫 Email: paulosergioadm9@gmail.com
 - 😄 Pronomes: ele/dele
 
