@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Eu sou Paulo Sérgio 👋<br><br>- 🔭 Desenvolvedor Android <br>- 😄 Pronomes: ele/dele</h2>
+<h2 align="left">Olá! Eu sou Paulo Sérgio 👋<br><br>- 🔭 Desenvolvedor Mobile <br>- 😄 Pronomes: ele/dele</h2>
 
 ###
 
